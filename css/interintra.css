@@ -1,0 +1,164 @@
+body{
+    
+    background-image: url(../iconos/fondoi1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.menuinicio{
+    width: 100%;
+    height: 200px;
+    z-index: 101;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: -9px;
+    background: rgb(45, 192, 26);
+    padding-left: 10px;
+
+    
+
+}
+
+.menu ul{
+
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    display: inline-flex;
+    color: rgb(209, 26, 20);
+    
+}
+
+.menu li{
+
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.menu li a:hover{
+color: rgb(255, 251, 0);
+text-decoration: overline;
+
+}
+
+.menu li a{
+
+    display: block;
+    padding: 17px;
+    text-decoration: none;
+    color:rgb(209, 26, 20);
+}
+
+*{
+
+    box-sizing: border-box;
+}
+
+.titulo1{
+
+    margin: 0;
+    text-align: center;
+    color: rgb(219, 96, 24);
+    padding-top: 0%;
+    font-family: cursive;
+    font-size: 35px;
+    background: rgb(128, 204, 240);
+    background-image: 15%;
+    
+
+}
+.parrafo1 {
+
+    font-size: 28px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: alegrian;
+    color: rgb(22, 21, 22);
+    margin: 0%;
+    background: lightcoral;
+    background-image: 20%
+
+    
+    
+}
+
+.iconocorporal{
+
+    margin: auto;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 31px;
+    text-align: center;
+}
+
+
+.titulo2{
+
+    margin: 0;
+    text-align: center;
+    color: rgb(219, 96, 24);
+    padding-top: 0%;
+    font-family: cursive;
+    font-size: 35px;
+    background: rgb(43, 26, 88);
+    background-image: 15%;
+
+    
+
+}
+.parrafo2 {
+
+    font-size: 28px;
+    letter-spacing: 1px;
+    
+    text-align: center;
+    padding-bottom: 21px;
+    font-family: alegrian;
+    color: rgb(22, 21, 22);
+    margin: 0%;
+    background-image: 20%;
+    background: rgb(237, 169, 240);
+    border-radius:16px ;
+    margin: 10% auto ;
+
+
+    
+}
+
+.icononaturalista{
+
+    margin: auto;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 31px;
+    text-align: center;
+}
+
+foter{
+
+    width: 100%;
+    background: rgb(2, 63, 63);
+}
+
+.iconosredes{
+
+   text-align: center;
+   
+
+}
+
+.textofooter{
+
+   padding-top: 8px;
+   text-align: center;
+   width: 100%;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+   height: 80%;
+}
